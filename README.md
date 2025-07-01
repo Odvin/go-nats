@@ -1,0 +1,2 @@
+# go-nats
+NATS playground
